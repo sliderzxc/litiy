@@ -1,4 +1,7 @@
 package com.sliderzxc.wixy.core
 
-class WixyBuilder {
+object WixyBuilder {
+    fun build(): HttpLoader {
+        return AndroidHttpLoader()
+    }
 }
