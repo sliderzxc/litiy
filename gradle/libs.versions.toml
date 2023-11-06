@@ -9,7 +9,6 @@ appcompat = "1.6.1"
 material = "1.9.0"
 constraintlayout = "2.1.4"
 okhttp = "4.11.0"
-org-jetbrains-kotlin-jvm = "1.9.10"
 
 [libraries]
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
