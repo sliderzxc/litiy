@@ -19,6 +19,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "wixy"
 
-include(":samples")
-
 include(":wixy-core")
+include(":samples")
