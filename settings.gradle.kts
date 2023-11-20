@@ -17,7 +17,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "wixy"
+rootProject.name = "litiy"
 
-include(":wixy-core")
-include(":samples")
+include(":litiy-core")
+include(":sample")
